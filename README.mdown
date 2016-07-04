@@ -6,7 +6,7 @@
 <body>
 
 # About This Scripts #
-I created this script for my personal use, but I think it will help others too.
+I created this script for my personal use, but I think it would help others too.
 
 ## How to run? ##
 You can run this scripts through **bash \<scriptname\>.sh** from you console.
