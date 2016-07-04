@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Various BASH script for files management</title>
+</head>
+<body>
+
+# About This Scripts #
+I created this script for my personal use, but I think it will help others too.
+
+## How to run? ##
+You can run this scripts through **bash \<scriptname\>.sh** from you console.
+
+## About deleteoldfiles.sh ##
+
+The script will help you to delete old files from your directory. Make sure you placed script under appropriate directory from where you want to delete files.
+PS: Please update **$DIR** and **-mmin** value [current value is 540 minute] as per you requirements.
+
+## About mediasync.sh ##
+
+I used this script to backup my Magento project **media** directory and I think it's not limited to Magento media directory. You can change the path it will take your files to your storage path.
+
+## About securefiles.sh ##
+
+Again, I used this script to set **immutable** flag to my Magento project file system. Offcourse I don't want anyone to edit my project files.
+
+Feel free to edit *Use it as you see fit* or found any issues/bug.
+</body></html>
